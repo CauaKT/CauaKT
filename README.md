@@ -9,7 +9,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/cau%C3%A3-brand%C3%A3o-silva-57391827b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2e1065?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn" /></a>
-  <a href="https://github.com/CauaKT" target="_blank"><img src="https://img.shields.io/badge/GitHub-2e1065?style=for-the-badge&logo=github&logoColor=white&v=2" alt="GitHub" /></a>
   <a href="mailto:cauakt@gmail.com"><img src="https://img.shields.io/badge/E--mail-2e1065?style=for-the-badge&logo=gmail&logoColor=white&v=2" alt="E-mail" /></a>
 </p>
 
