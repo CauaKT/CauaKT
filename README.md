@@ -25,7 +25,7 @@ Atualmente busco expandir meus conhecimentos com projetos práticos, boas práti
 <img width="100%" src="./assets/tecnologias.svg" alt="Tecnologias" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Frontend" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=py,cs,dotnet,php,cpp,c,lua" alt="Backend" />
