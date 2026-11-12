@@ -34,7 +34,7 @@ Currently seeking to expand my knowledge through hands-on projects, clean code b
 <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" /> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" /> <img src="https://skillicons.dev/icons?i=notion,obsidian" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Ferramentas" /> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" /> <img src="https://skillicons.dev/icons?i=notion,obsidian" alt="Ferramentas" />
 
 <img width="100%" src="./assets/current-focus.svg" alt="Current focus" />
 
