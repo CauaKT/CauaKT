@@ -40,4 +40,4 @@ Currently seeking to expand my knowledge through hands-on projects, clean code b
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,cs,css" alt="JavaScript, C# and CSS" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,css" alt="JavaScript, TypeScript, C# e CSS" />
